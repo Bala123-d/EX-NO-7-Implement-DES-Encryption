@@ -46,7 +46,7 @@ int main()
 
 ## Output:
 
-<img width="1919" height="1044" alt="Screenshot 2025-09-26 085618" src="https://github.com/user-attachments/assets/6210b71a-5ae9-4023-8df1-dd9a72ac24d3" />
+<img width="1744" height="991" alt="Screenshot 2026-05-12 160215" src="https://github.com/user-attachments/assets/171fb7cc-17f9-4702-bcd8-dc6d3a711435" />
 
 
 ## Result:
